@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class Fast_Food extends Establecimiento{
 
     boolean disponible;
-    ArrayList<String> pedido = new ArrayList<>();
     String menu;
     ArrayList<Object> listaPedidos;
     ArrayList<String> listaResenas;
