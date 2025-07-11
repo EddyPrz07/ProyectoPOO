@@ -14,3 +14,4 @@ CONSIDERACIONES 3RA ENTREGA:
 -El programa emplea Apache Maven,usando el look and feel FlatLaf 3.6,proporcionándole un estilo único y bastante atractivo
 El enlace de descarga para esto es el siguiente: https://www.formdev.com/flatlaf/
 Donde hay una apartado específico para Maven Central, donde se usan dependencias en el código del Form.
+Además,se presentan 3 programas con su interfaz de acuerdo al rol. Cada uno tiene sus características y apartados según corresponda.
