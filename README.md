@@ -15,3 +15,4 @@ CONSIDERACIONES 3RA ENTREGA:
 El enlace de descarga para esto es el siguiente: https://www.formdev.com/flatlaf/
 Donde hay una apartado específico para Maven Central, donde se usan dependencias en el código del Form.
 Además,se presentan 3 programas con su interfaz de acuerdo al rol. Cada uno tiene sus características y apartados según corresponda.
+Todos tienen la misma estructura, no hay necesidad de añadir o descargar archivos de los que ya están.
