@@ -15,7 +15,7 @@ CONSIDERACIONES ENTREGA FINAL:
   <artifactId>mysql-connector-j</artifactId>
   <version>9.3.0</version>
 </dependency>
--Se hace uso de phpMyAdmin suministrada por la aplicación XAMPP.
+-Se hace uso de phpMyAdmin para gestionar la base de datos del gimnasio,allí están alojadas todas las tablas necesarias. Este apartado es suministrado por la aplicación XAMPP.
 Enlace de descarga: https://www.apachefriends.org/
 -Como se mencionó en la anterior entrega, la interfaz gráfica está diseñada a partir del look and feel FlatLaf 3.6 y sus respectivas correspondencias con Maven.
 Enlace de descarga: https://www.formdev.com/flatlaf/
